@@ -1,0 +1,3 @@
+name: pulumi-test
+runtime: python
+description: minimal AWS python pulumi program
